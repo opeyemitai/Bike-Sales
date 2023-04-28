@@ -9,7 +9,7 @@ Commute distances: The majority of bike purchasers commute between 0-1 miles, wh
 
 Age brackets: The Middle-aged individuals purchased the highest number of bikes.
 
-Average Income per Purchase: The gender with the average income per purchase is the male i.e they more likely to purchase bikes than the female.
+Average Income per Purchase: The gender with the average income per purchase is the male i.e they are more likely to purchase bikes than the female.
 
 ## RECOMMENDATIONS
 Few Recommendations:
